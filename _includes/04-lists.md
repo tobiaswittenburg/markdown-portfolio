@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+#Things to learn and do
+
+1. Learn GitHub
+2. Learn JS
+3. Learn node.js
+   1. Express
+   2. whatever comes after that
